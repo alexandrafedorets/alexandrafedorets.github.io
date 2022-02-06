@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[About me](./) [Media & Policy](./mediapolicy.md)   
+[About me](./) | [Media & Policy](./mediapolicy.md)   
 
 # Academic Research
 My major research field is labor economics, with the focus on minimum wages and occupational contents. I am very much interested in how new technologies affect our work, including possibilities to use them to overcome severe non-compliance issues.
