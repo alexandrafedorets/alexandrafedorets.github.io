@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Academic Research](./academicresearch.html) | [Media & Policy](./mediapolicy.html)
+[Academic Research](./academicresearch.md) | [Media & Policy](./mediapolicy.md)
 
 # About me
 
