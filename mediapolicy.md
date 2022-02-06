@@ -6,30 +6,27 @@ layout: default
 
 ## Media & Policy
 
-* [12 Euro Mindestlohn: neue Erwartungen und alte Hürden](https://www.wirtschaftsdienst.eu/inhalt/jahr/2021/heft/12/beitrag/12-euro-mindestlohn-neue-erwartungen-und-alte-huerden.html), Zeitgespräch, Wirtschaftsdienst 12/2021
+<p><a href="https://www.wirtschaftsdienst.eu/inhalt/jahr/2021/heft/12/beitrag/12-euro-mindestlohn-neue-erwartungen-und-alte-huerden.html" target="_blank" rel="noopener">12 Euro Mindestlohn: neue Erwartungen und alte Hürden</a> [Zeitgespräch, Wirtschaftsdienst 12/2021]</p>
 
-* [Artificial Intelligence in Germany: Employees Often Unaware They Are Working with AI-Based Systems](https://www.diw.de/de/diw_01.c.831281.de/publikationen/weekly_reports/2021_48_1/artificial_intelligence_in_germany__employees_often_unaware_they_are_working_with_ai-based_systems.html); DIW Weekly Report 48/2021, joint with Oliver Giering, Jule Adriaans, Stefan Kirchner
+<p><a href="https://www.diw.de/de/diw_01.c.831281.de/publikationen/weekly_reports/2021_48_1/artificial_intelligence_in_germany__employees_often_unaware_they_are_working_with_ai-based_systems.html" target="_blank" rel="noopener">Artificial Intelligence in Germany: Employees Often Unaware They Are Working with AI-Based Systems</a> [DIW Weekly Report 48/2021, joint with Oliver Giering, Jule Adriaans, Stefan Kirchner]</p>
 
-* [Künstliche Intelligenz in Deutschland: Erwerbstätige wissen oft nicht, dass sie mit KI-basierten Systemen arbeiten](https://www.diw.de/de/diw_01.c.830723.de/publikationen/wochenberichte/2021_48_1/kuenstliche_intelligenz_in_deutschland__erwerbstaetige_wissen_oft_nicht__dass_sie_mit_ki-basierten_systemen_arbeiten.html), DIW Wochenbericht 48/2021, mit Oliver Giering, Jule Adriaans, Stefan Kirchner
+<p><a href="https://www.diw.de/de/diw_01.c.830723.de/publikationen/wochenberichte/2021_48_1/kuenstliche_intelligenz_in_deutschland__erwerbstaetige_wissen_oft_nicht__dass_sie_mit_ki-basierten_systemen_arbeiten.html" target="_blank" rel="noopener">Künstliche Intelligenz in Deutschland: Erwerbstätige wissen oft nicht, dass sie mit KI-basierten Systemen arbeiten</a> [DIW Wochenbericht 48/2021, mit Oliver Giering, Jule Adriaans, Stefan Kirchner]</p>
 
-Media Impact of the DIW Weekly Report 48/2021: 
-1.12.2021: [Tagesspiegel](https://background.tagesspiegel.de/digitalisierung/studie-viele-deutsche-wissen-nicht-dass-sie-mit-ki-arbeiten), [presse text](https://www.pressetext.com/news/211201030/), [pressebox](https://www.pressebox.de/inaktiv/deutsches-institut-fuer-wirtschaftsforschung-ev-diw-berlin/Kuenstliche-Intelligenz-ist-fuer-viele-Erwerbstaetige-bereits-Teil-der-alltaeglichen-Arbeit-ohne-dass-sie-es-wissen/boxid/1087965
+<p style="padding-left:40px;"><strong>Media Impact of the DIW Weekly Report 48/2021:</strong><br>1.12.2021: <a href="https://background.tagesspiegel.de/digitalisierung/studie-viele-deutsche-wissen-nicht-dass-sie-mit-ki-arbeiten">Tagesspiegel</a>, 
+<a href="https://www.pressetext.com/news/211201030/">presse text,</a>
+<a href="https://www.pressebox.de/inaktiv/deutsches-institut-fuer-wirtschaftsforschung-ev-diw-berlin/Kuenstliche-Intelligenz-ist-fuer-viele-Erwerbstaetige-bereits-Teil-der-alltaeglichen-Arbeit-ohne-dass-sie-es-wissen/boxid/1087965">pressebox</a>
+<br>8.12.2021: <a href="https://www.rnd.de/wirtschaft/ki-im-joballtag-eine-revolution-die-viele-beschaeftigte-gar-nicht-bemerken-UPFONUDVLRDN3HZVN62PRM6H4Q.html">RND</a>
+</p>
 
-8.12.2021: [RND](https://www.rnd.de/wirtschaft/ki-im-joballtag-eine-revolution-die-viele-beschaeftigte-gar-nicht-bemerken-UPFONUDVLRDN3HZVN62PRM6H4Q.html)
+<p><a href="https://www.diw.de/de/diw_01.c.830725.de/publikationen/wochenberichte/2021_48_2/es_braucht_aufklaerung__damit_mehr_menschen_mit_kuenstlicher_intelligenz_arbeiten_koennen__interview.html" target="_blank" rel="noopener">Es braucht Aufklärung, damit mehr Menschen mit Künstlicher Intelligenz arbeiten können</a> [Interview zum DIW Wochenbericht 48/2021: Text + Audio]</p>
 
-* [Es braucht Aufklärung, damit mehr Menschen mit Künstlicher Intelligenz arbeiten können](https://www.diw.de/de/diw_01.c.830725.de/publikationen/wochenberichte/2021_48_2/es_braucht_aufklaerung__damit_mehr_menschen_mit_kuenstlicher_intelligenz_arbeiten_koennen__interview.html), Interview zum DIW Wochenbericht 48/2021: Text + Audio
 
-* [Der Makel der Minijobs](https://zeitung.faz.net/faz/wirtschaft/2021-11-22/d40c36d393b70a3032b1ba67c40ba1e7/?GEPC=s3), OpEd in FAZ, mit Peter Haan, Katharina Wrohlich, Andreas Peichl, Sebastian Siegloch: 22.11.2021
+<p><a href="https://zeitung.faz.net/faz/wirtschaft/2021-11-22/d40c36d393b70a3032b1ba67c40ba1e7/?GEPC=s3" target="_blank" rel="noopener">Der Makel der Minijobs</a> [OpEd, mit Peter Haan, Katharina Wrohlich, Andreas Peichl, Sebastian Siegloch]: 22.11.2021 FAZ</p>
 
-* [Erhöhung des Mindestlohns: Hilfe für Millionen](https://taz.de/Erhoehung-des-Mindestlohns/!5810552/,view=conversionToLogin.bild.html), [O-Ton zu Arbeitsmarkteffekten]: 09.11.2021 TAZ
 
-* [Längere Arbeitszeiten, weniger Urlaub](https://www.bild.de/bild-plus/politik/inland/politik-inland/experten-plan-zur-rettung-der-rente-laengere-arbeitszeiten-weniger-urlaub-78147344,view=conversionToLogin.bild.html) [O-Ton zum Potential der Arbeitszeitaufstockung bei Minijobbern und Teilzeitbeschäftigten]: 05.11.2021 Bild
+<p><a href="https://taz.de/Erhoehung-des-Mindestlohns/!5810552/,view=conversionToLogin.bild.html" target="_blank" rel="noopener">Erhöhung des Mindestlohns: Hilfe für Millionen</a> [O-Ton zu Arbeitsmarkteffekten]: 09.11.2021 TAZ</p>
 
-* []()
-
-* []()
-
-* []()
+<p><a href="https://www.bild.de/bild-plus/politik/inland/politik-inland/experten-plan-zur-rettung-der-rente-laengere-arbeitszeiten-weniger-urlaub-78147344,view=conversionToLogin.bild.html" target="_blank" rel="noopener">Längere Arbeitszeiten, weniger Urlaub.</a> [O-Ton zum Potential der Arbeitszeitaufstockung bei Minijobbern und Teilzeitbeschäftigten]: 05.11.2021 Bild</p>
 
 
 <p><a href="https://alexandrafedorets.files.wordpress.com/2021/11/img_2527.jpg">Zwölf Euro sind nicht genug.</a> [OpEd]: 31.10.2021  Tagesspiegel (Print, S. 24) </p>
