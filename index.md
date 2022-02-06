@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
+[Academic Research](./academicresearch.html) | [Media & Policy](./mediapolicy.html)
+
 # About me
+
+![Octocat](./cropped-bp_fedorets_bera5.jpg.webp)
+
 
 I am an expert on digitalization and data analysis at the Bundesdruckerei ([Federal Printing Office](https://www.bundesdruckerei.de/en)). I am a trained economist with more than 15 years experience in empirical research focused on labor markets, using data to understand the consequences of reforms and drivers of change. As a former senior post-doc at the  [German Institute for Economic Research](https://www.diw.de/de) in the Department of the [Socio-Economic Panel](https://www.diw.de/soep), I have experience in academic research, a record of policy advice, familiarity with media outreach, and understand survey data provision.
 
@@ -20,15 +25,5 @@ For more detail, please look at my publication record and the policy work. My [c
 
 
 
-_________
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
