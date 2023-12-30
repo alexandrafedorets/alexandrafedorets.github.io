@@ -7,6 +7,7 @@ layout: default
 My major research field is labor economics, with the focus on minimum wages and occupational contents. I am very much interested in how new technologies affect our work, including possibilities to use them to overcome severe non-compliance issues.
 
 ## Peer-Reviewed Publications
+[10] Marco Caliendo, Alexandra Fedorets, Malte Preuss, Carsten Schroeder and Linda Wittbrodt (2023) [The short- and medium-term distributional effects of the German minimum wage reform](https://link.springer.com/article/10.1007/s00181-022-02288-4), Empirical Economics, 64(3), S. 1149-1175.
 
 [9] Alexandra Fedorets and Ralf Himmelreicher (2021) [Mindestlohn und Arbeitsintensität - Evidenz aus Deutschland (Minimum Wage and Work Intensity - Evidence from Germany](https://www.wsi.de/de/wsi-mitteilungen-mindestlohn-arbeitsintensitaet-evidenz-aus-deutschland-36762.htm), WSI Mitteilungen, Ausgabe 6/2021, S. 446-453.
 
